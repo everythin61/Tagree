@@ -8,7 +8,7 @@ body {
 .btn {
   display: inline-block;
   box-sizing: border-box;
-  padding:500px 40px;
+  padding: 15px 40px;
   border: 1px solid #1F1E1E;
   background-color: transparent;
   outline: none;
